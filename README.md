@@ -1,5 +1,3 @@
-Here's a README.md template for the GitHub repository based on your specifications:
-
 ```markdown
 # Hybrid Recommender System
 
